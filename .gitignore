@@ -1,0 +1,15 @@
+.env
+venv
+__pycache__/
+*.pyc
+docker.jpg
+postgres.png
+power bi.jpg
+*.ipynb
+python-logo.png
+.png
+.DS_Store
+.pdf
+.ipynb_checkpoints
+github action.jpg
+Disaster Response Analytics_.pdf
